@@ -1,4 +1,5 @@
 # Comandos Básicos do GIT.
+### Enviei um pasta com arquivo pdf - comandos básicos oficias do github.
 
 <h3>1. git init</h3><p>Inicia um repositório Git no diretório atual.</p>
 <h3>2. git add "nome-arquivio"</h3><p>Adiciona o arquivo espeficado à área de preparção (stage).</p>
