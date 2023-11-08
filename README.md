@@ -1,0 +1,1 @@
+## Alguns comandos do GIT.
